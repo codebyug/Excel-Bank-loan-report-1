@@ -1,9 +1,10 @@
 # **Financial Loan Analysis Project**
-Overview
+# **Overview**
 This project is a comprehensive analysis of financial loans using Excel. It includes various data visualizations, loan calculations, and summary insights to help understand loan trends, borrower behavior, and other key financial metrics. The project is structured to provide insights into loan management, repayment, and potential risk factors.
 
-Key Features
-Loan Calculations: Calculations include monthly payments, total interest, loan term estimations, and outstanding loan balances.
+# **Key Features**
+# **Loan Calculations:**
+Calculations include monthly payments, total interest, loan term estimations, and outstanding loan balances.
 Dashboard: An interactive dashboard that includes:
 Loan status overview (Approved, Rejected, Pending)
 Loan amounts by categories (Home Loan, Car Loan, Personal Loan)
