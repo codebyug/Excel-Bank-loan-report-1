@@ -20,10 +20,6 @@ Histograms of borrower income distribution
 # **Project Structure**
 ## _Loan_Calculations.xlsx_ 
 Contains loan calculations such as EMI (Equated Monthly Installment), interest rate breakdowns, and total payable amounts.
-## _Summary_Dashboard.xlsx:_ 
-Includes an interactive summary dashboard with visualizations and insights.
-## _Geographical_Analysis.xlsx:_ 
-Displays the loan distribution using Excel map tools.
 ## _Data:_ 
 The folder containing raw loan data used for analysis.
 Findings
