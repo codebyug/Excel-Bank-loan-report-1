@@ -23,7 +23,7 @@ Contains loan calculations such as EMI (Equated Monthly Installment), interest r
 ## _Data:_ 
 The folder containing raw loan data used for analysis.
 Findings
-## _Loan Default Trends:# 
+## _Loan Default Trends:_ 
 Identified higher default rates in regions with lower average incomes.
 ## _Repayment Patterns:_ 
 Borrowers with shorter loan terms tend to repay on time more consistently.
